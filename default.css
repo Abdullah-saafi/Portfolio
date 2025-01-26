@@ -36,11 +36,11 @@ section h1 {
   border-bottom: 2px dashed var(--half-white);
   display: inline-block;
   border-image: repeating-linear-gradient(
-      to right,
+      to left,
       rgba(255, 255, 255, 0.659) 0%,
       rgba(255, 255, 255, 0.533) 20%,
-      transparent 20%,
-      transparent 40%
+      transparent 34%,
+      transparent 25%
     )
     1;
   padding-bottom: 1rem;
